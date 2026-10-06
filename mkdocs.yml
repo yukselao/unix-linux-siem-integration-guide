@@ -52,6 +52,13 @@ plugins:
         - locale: tr
           name: Türkçe
           build: true
+          nav_translations:
+            Home: Ana Sayfa
+            How it works: Nasıl çalışır
+            Configure: Yapılandırma
+            Test & verify: Test & doğrulama
+            Troubleshooting: Sorun giderme
+            Reference & cheat sheet: Referans & özet kartı
 
 markdown_extensions:
   - admonition
